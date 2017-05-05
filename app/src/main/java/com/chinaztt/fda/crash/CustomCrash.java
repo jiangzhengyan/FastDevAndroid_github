@@ -21,12 +21,12 @@ import java.util.TimeZone;
 
 /**
  * 当前类注释:客户端运行 异常崩溃数据扑捉异常保存SD卡或者实时投递服务器工具类
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.crash
- * 作者：江清清 on 15/10/26 13:29
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/10/26 13:29
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class CustomCrash  implements Thread.UncaughtExceptionHandler{
     private static final String TAG="CustomCrash";

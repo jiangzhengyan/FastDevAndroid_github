@@ -10,12 +10,12 @@ import java.io.UnsupportedEncodingException;
 
 /**
  * 当前类注释:进行扩展GSON数据解析json数据
- * 项目名：FastDev4Android
- * 包名：com.android.volley.toolbox
- * 作者：江清清 on 15/11/12 18:28
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 项目名：FastDev4Android_github
+ *
+ * 作者：jzy on 16/12/12 18:28
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class GsonRequest<T> extends Request<T> {
     private final Response.Listener<T> listener;

@@ -9,12 +9,12 @@ import com.chinaztt.fda.spreference.SharedPreferencesTag;
 /**
  * 当前类注释:查询与设置引导界面标志值工具类
  * 主要用于引导界面，APP新版本第一次打开 才会进行使用引导界面
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.utils
- * 作者：江清清 on 15/10/22 09:47
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/10/22 09:47
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class GuideUtils {
     private static final  String KEY_GUIDE_ACTIVITY="key_guide_activity";

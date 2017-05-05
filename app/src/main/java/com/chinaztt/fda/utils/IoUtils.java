@@ -52,12 +52,12 @@ import java.util.zip.InflaterInputStream;
  * 当前类注释:网络请求工具类
  * 当前类还是采用了httpclient进行请求，由于在从Android L开始当前库已经被废弃了，Android M直接删除该工具类
  * 现在如果还需要使用的时候 建议编译在Android M之下编译 或者下载libs中org.apache.http.legacy.jar包进行关联使用
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.utils
- * 作者：江清清 on 15/10/22 09:50
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/10/22 09:50
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class IoUtils {
 

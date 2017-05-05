@@ -13,12 +13,12 @@ import java.util.Map;
 
 /**
  * 当前类注释:Volley JSON数据请求封装类
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fdv
- * 作者：江清清 on 15/11/16 20:31
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/11/16 20:31
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class Fdv_JsonObjectRequest extends  Fdv_BaseRequest<JSONObject>{
     public Fdv_JsonObjectRequest(Context pContext) {

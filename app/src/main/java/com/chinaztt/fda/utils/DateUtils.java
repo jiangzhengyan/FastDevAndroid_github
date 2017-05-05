@@ -157,12 +157,12 @@ import java.util.TimeZone;
  * </table>
  * [注] 当前时间日期处理工具类，本人是通过聚灵工作室提供的工具类，在此基础上面又新增若干个工具方法
  * 同时特别感谢聚灵工作室的开源奉献精神
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.utils
- * 作者：江清清 on 15/10/22 09:30
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/10/22 09:30
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class DateUtils implements  Serializable{
     /**

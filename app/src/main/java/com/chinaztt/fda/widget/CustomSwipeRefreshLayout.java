@@ -16,12 +16,12 @@ import com.chinaztt.fda.utils.Log;
 
 /**
  * 当前类注释:自定义SwipeRefreshLayout,进行扩展上拉加载更多的功能
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.widget
- * 作者：江清清 on 15/11/22 16:05
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/11/22 16:05
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class CustomSwipeRefreshLayout extends SwipeRefreshLayout implements AbsListView.OnScrollListener {
     private LayoutInflater mInflater;
@@ -193,7 +193,7 @@ public class CustomSwipeRefreshLayout extends SwipeRefreshLayout implements AbsL
     /**
      * 加载更多的监听器
      *
-     * @author 江清清
+     * @author jzy
      */
     public interface OnLoadMoreListener {
         //加载更多回调接口

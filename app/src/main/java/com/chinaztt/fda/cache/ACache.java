@@ -51,12 +51,12 @@ import java.util.concurrent.atomic.AtomicLong;
  * [注意]当前类为Github开源类，感谢 杨福海（michael） www.yangfuhai.com
  * 感谢开源的力量，感谢作者能够提供这么好用的工具类，这个类我也用了好长时间，
  * 并且也在原来的基础上面进行相关方法的扩展，使得更多符合平时项目中的使用。
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.cache
- * 作者：江清清 on 15/10/25 17:32
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/10/25 17:32
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class ACache {
     public static final int TIME_HOUR = 60 * 60;  //缓存一个小时

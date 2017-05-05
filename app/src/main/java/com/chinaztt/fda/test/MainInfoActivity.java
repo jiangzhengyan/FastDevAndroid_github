@@ -9,12 +9,12 @@ import com.chinaztt.fda.ui.R;
 
 /**
  * 当前类注释:当前类注释:Fragment+ViewPager+FragmentStatePagerAapter仿照新闻顶部TAB
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.test
- * 作者：江清清 on 15/12/2 09:43
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/12/2 09:43
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class MainInfoActivity extends FragmentActivity {
     private LinearLayout top_bar_linear_back;

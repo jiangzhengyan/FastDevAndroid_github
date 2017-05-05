@@ -11,12 +11,12 @@ import com.chinaztt.fda.utils.ManagerActivity;
 
 /**
  * 当前类注释:Activity框架封装类
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.base
- * 作者：江清清 on 15/10/22 12:43
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/10/22 12:43
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class BaseFrameActvity extends Activity{
     private static final String TAG="lifescycle";

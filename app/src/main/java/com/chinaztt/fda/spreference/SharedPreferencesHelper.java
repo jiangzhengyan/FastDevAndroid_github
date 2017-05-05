@@ -7,12 +7,12 @@ import android.content.SharedPreferences;
  * 当前类注释:当前为SharedPerferences进行封装基本的方法,SharedPerferences已经封装成单例模式
  * 可以通过SharedPreferences sp=SharedPreferencesHelper.getInstances(FDApplication.getInstance())进行获取当前对象
  * sp.putStringValue(key,value)进行使用
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.spreference
- * 作者：江清清 on 15/10/22 09:25
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/10/22 09:25
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class SharedPreferencesHelper {
     private static final String SHARED_PATH = "fda_shared";

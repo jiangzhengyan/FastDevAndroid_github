@@ -33,12 +33,12 @@ import com.chinaztt.fda.utils.StrUtils;
 
 /**
  * 当前类注释:WebView重写
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.html5
- * 作者：江清清 on 15/11/06 08:59
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/11/06 08:59
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class HTML5CustomWebView extends WebView{
 	private Context mContext;

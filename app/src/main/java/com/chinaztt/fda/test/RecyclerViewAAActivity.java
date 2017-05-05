@@ -23,12 +23,12 @@ import org.androidannotations.annotations.ViewById;
 
 /**
  * 当前类注释:RecyclerView集合AA(Android Annotations)注入框架实现实例
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.test
- * 作者：江清清 on 15/11/20 14:41
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/11/20 14:41
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 @EActivity(R.layout.recycler_aa_layout)
 public class RecyclerViewAAActivity  extends BaseActivity{

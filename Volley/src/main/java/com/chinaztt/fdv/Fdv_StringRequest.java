@@ -9,12 +9,12 @@ import com.android.volley.toolbox.StringRequest;
 import java.util.Map;
 /**
  * 当前类注释:Volley 字符串、文本数据请求封装类
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fdv
- * 作者：江清清 on 15/11/11 13:43
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/11/11 13:43
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class Fdv_StringRequest extends Fdv_BaseRequest<String>{
     public Fdv_StringRequest(Context pContext){

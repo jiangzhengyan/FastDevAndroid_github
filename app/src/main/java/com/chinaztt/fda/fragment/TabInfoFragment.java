@@ -16,12 +16,12 @@ import java.util.List;
 
 /**
  * 当前类注释:使用google支持库实现Tab标签
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.fragment
- * 作者：江清清 on 15/12/2 21:03
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/12/2 21:03
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class TabInfoFragment extends Fragment {
     private String[] titles=new String[]{"全部","氪TV","O2O","新硬件","Fun!!","企业服务","Fit&Health","在线教育","互联网金融","大公司","专栏","新产品"};

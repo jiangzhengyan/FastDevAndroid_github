@@ -13,12 +13,12 @@ import java.util.TimerTask;
 /**
  * 当前类注释:重写Gallery对画廊控件进行重写，扩展成可以自动切换图片Gallery
  * 这个图片轮播控件还是比较之前封装的，现在一般采用viewpager进行封装，后面我这边也会介绍
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.widget
- * 作者：江清清 on 15/10/23 08:41
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/10/23 08:41
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 public class AutoGallery extends Gallery implements View.OnTouchListener {
     //画廊图片的数量

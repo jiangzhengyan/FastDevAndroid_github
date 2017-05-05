@@ -2,13 +2,13 @@
 ### 
  
  
-<p># FastDev4Android</p>
+<p># FastDev4Android_github_github</p>
 本项目是Android快速开发框架，采用AndroidStudio进行开发。
 预想集成工具包,ORM,网络请求(HTTPClint,Volley,OkHttps),数据解析,依赖注入,xutils,图片异步加载，二维码扫描等等<br>
 同时会包括工作中自己封装的一些组件和控件.
 后续会进行逐步添加
 整体项目目录如下:
-<p>FastDev4Android</p>
+<p>FastDev4Android_github_github</p>
 <table border="1" cellspacing="1" style="border-collapse:collapse">
     <tr>
         <th>包名</th><th>描述</th>

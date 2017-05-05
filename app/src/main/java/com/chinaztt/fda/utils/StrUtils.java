@@ -48,12 +48,12 @@ import java.util.regex.Pattern;
 /**
  * 当前类注释:统一工具类 包括Android平台开发中需要用到的字符串判断,编码判断转化,字符字符串字节转换,
  * 系统各种信息的获取等等(屏幕分辨率,设备号,imei,imsi,系统版本,操作系统,cpu,IP,时间处理,域名,平台等等)
- * 项目名：FastDev4Android
+ * 项目名：FastDev4Android_github
  * 包名：com.chinaztt.fda.utils
- * 作者：江清清 on 15/10/22 09:40
- * 邮箱：jiangqqlmj@163.com
- * QQ： 781931404
- * 公司：江苏中天科技软件技术有限公司
+ * 作者：jzy on 15/10/22 09:40
+ * 邮箱：jzytxdyi@163.com
+ * QQ： 472240902
+ *
  */
 @SuppressLint({ "SimpleDateFormat", "DefaultLocale" })
 public class StrUtils {
