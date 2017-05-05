@@ -1,4 +1,4 @@
-include ':app', ':ViewPagerIndicator', ':fdv_okhttp'
+include ':app', ':ViewPagerIndicator'
 include ':Volley'
 
 

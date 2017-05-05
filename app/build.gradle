@@ -50,7 +50,8 @@ dependencies {
     compile 'com.android.support:design:23.1.1'
     compile 'com.android.support:appcompat-v7:23.1.1'
     //添加fdv_okhttp工具封装依赖库
-    compile project(':fdv_okhttp')
+    compile 'com.squareup.okhttp:okhttp:2.6.0'
+
 }
 
 apt {
